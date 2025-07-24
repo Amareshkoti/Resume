@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38973b2e-8628-47cb-97cb-05368f3aa9e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../csp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/app/companions/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/app/companions/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/app/companions/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/app/companions/new/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/app/companions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/app/companions/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/app/my-journey/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/app/my-journey/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/app/sign-in/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/app/sign-in/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/app/subscription/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/app/subscription/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP1.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP1.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP2.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP2.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP3.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP3.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP4.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP4.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP5.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/Placement_Spotlight/CDCHP5.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/hero/CMBanner_1.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/hero/CMBanner_1.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/hero/CMBanner_2.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/hero/CMBanner_2.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/hero/UGPGBanner2025.avif" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/AVIF_Images/Home_Page/hero/UGPGBanner2025.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/3984-3b14b2d8af158b69.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/3984-3b14b2d8af158b69.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/5989-4cb294c53e04243e.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/5989-4cb294c53e04243e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/823-f6f8f9a07cebe491.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/823-f6f8f9a07cebe491.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/9137-0276d3569d340547.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/9137-0276d3569d340547.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/app/layout-c1cf2cb3b9480f00.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/app/layout-c1cf2cb3b9480f00.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/app/page-2b15bbfede64703b.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/app/page-2b15bbfede64703b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/app/vitiebot/page-1b68e2f8ca531807.js" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/chunks/app/vitiebot/page-1b68e2f8ca531807.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/media/vitaplogo.1f72e396.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/media/vitaplogo.ea4ac8df.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/_next/static/media/vitaplogored.b14c9929.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/announcements.html" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/announcements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/assets/images/logos/vitaplogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/assets/images/logos/vitaplogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/lifebackground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/lifebackground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../principal/vitap.ac.in/vitiebot.html" beforeDir="false" afterPath="$PROJECT_DIR$/../principal/vitap.ac.in/vitiebot.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="30JxmVSCQAtLoB6ZJE1OtQau3Jq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38973b2e-8628-47cb-97cb-05368f3aa9e3" name="Changes" comment="" />
+      <created>1753359637230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753359637230</updated>
+      <workItem from="1753359637999" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
